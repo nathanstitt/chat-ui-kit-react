@@ -1,6 +1,6 @@
 {
   "name": "@nathanstitt/chat-ui-kit-react",
-  "version": "1.10.4",
+  "version": "1.10.5",
   "description": "React component library for creating chat interfaces",
   "license": "MIT",
   "homepage": "https://chatscope.io/",
@@ -80,8 +80,8 @@
   },
   "dependencies": {
     "@chatscope/chat-ui-kit-styles": "^1.2.0",
-    "@fortawesome/fontawesome-free": "^5.12.1",
-    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^5.12.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "classnames": "^2.2.6",
